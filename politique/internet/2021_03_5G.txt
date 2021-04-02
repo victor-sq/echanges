@@ -1,5 +1,0 @@
-La 5G offrira une connectique sans fils à haut débits
-Elle ne doit pas être utilisé dans un domain publique :
-- A cause de son cout écologique
-- De son bénéfice non-indispensable
-- De sa faible portée
